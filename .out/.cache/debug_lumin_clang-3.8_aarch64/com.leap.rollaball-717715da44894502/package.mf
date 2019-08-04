@@ -1,0 +1,353 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "79e348c998759341778eb4def40511a1adc619a3",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3926304,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "332a8cb704ee9d437cf3743d94402ff23fb1ab9c",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 57876704,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5fbbd54fae43fb62b63e5b68078a2da9c186a804",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\libil2cpp.so-b3d605bc2c07ec27",
+   "xfrm_size": 57877462
+  },
+  {
+   "compression": 8,
+   "hash": "5c856b80371bde9129f380cae53db7830d7c5138",
+   "pkgpath": "Data/Plugins/AudioPluginMSASpatializer.bundle",
+   "size": 257780,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.bundle"
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4b904bbe55843650211ba4e1a340aa0ac243262d",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\AudioPluginMSASpatializer.so-95c202ab709e7979",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "669fadf60b08b4d27a1b8bba01f4580d50c85dd6",
+   "pkgpath": "Data/Plugins/DecoderContext.cpp",
+   "size": 21170,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/DecoderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "afa9e38dd968be0ecf4fcce342fd2c6df7d2bfa4",
+   "pkgpath": "Data/Plugins/DecoderContext.h",
+   "size": 1605,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/DecoderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "dea6d095b3b3c461ae1024dfb5ccecb1f76f7384",
+   "pkgpath": "Data/Plugins/ExampleMusicProvider.cpp",
+   "size": 30030,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/ExampleMusicProvider.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "3d11598b07f7c39e344873569264bc0ae8b011cd",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68608,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "3fdd7619da7dbbe3f2081bad8cda85af9853405f",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 317440,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2b84960e69feef2581c620537c74686d537bfdef",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 19968,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "5fa4fbb5960028d3f6bc5184affe05c5d30e9f32",
+   "pkgpath": "Data/Plugins/MusicProviderContext.cpp",
+   "size": 1092,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/MusicProviderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "7959215b2471cc484b9e3646953633e76beed318",
+   "pkgpath": "Data/Plugins/MusicProviderContext.h",
+   "size": 1881,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/MusicProviderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "0052ade04448a06833c34c8bfebc416d73a44ef1",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2427dff41074dd7484a9d590523c0904adea6901",
+   "pkgpath": "bin/UnityEngine.UI.dll",
+   "size": 258048,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/UnityEngine.UI.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8ee3db16a1cbc9b248033ae5ae81868917f1fc1f",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\UnityMagicLeap.so-95c202ab709e7979",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "cf2a9409666397dfacb689ec38aa6bcb1aba178a",
+   "pkgpath": "Data/Plugins/Utility.cpp",
+   "size": 5496,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/Utility.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "bd0869f5a619c6f69b16ca15ddcdee09b2066eb7",
+   "pkgpath": "Data/Plugins/Utility.h",
+   "size": 476,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/Utility.h"
+  },
+  {
+   "compression": 8,
+   "hash": "c304dd41954e030c36437de3b651679e02512d0d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "98ad4e17a6a0d16c2644b2501bf98ab944c0a451",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\libml_camera_plugin.so-95c202ab709e7979",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "6a0b868a47b45da60d66c10ba6a0195b85f54e43",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "43a30d2f69bc093699d9457d7c33bcb99072f62f",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\libml_mediaplayer_plugin.so-95c202ab709e7979",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "9b1ce580f7cec54ce6a1a6b53d87c5425438ad0e",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754740,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "dbf8ffd60bcf3d4228bb774274416e4765391fcb",
+   "pkgpath": "Data/boot.config",
+   "size": 400,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "f494adafd673e7ec91d5b53c21ea2dbbbfd49e26",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 42616,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "870f4aa9ebcd372a35fb1a62e84b382d66c77df0",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 46820,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1ed6b1d111df35dd91ec940456d7c581a549b47a",
+   "pkgpath": "Data/level0",
+   "size": 411292,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "a7beced5cc60f819eec1ff6e507f906b0fff7ca6",
+   "pkgpath": "Data/resources.assets",
+   "size": 522608,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4ce785d29d24c54555cb4aa9fed0d8d2dee1fad",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 360480,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d8adc695ef7db70b948fe6520a0f2fe377ac83f3",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 1212080,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "87f94e4035ea20be49484e5023be3e48fe58439c",
+   "pkgpath": "bin/Player.elf",
+   "size": 48661296,
+   "src": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8212a16e7c619c087a36cc5f5f390dad5439eba9",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\Player.elf-c4146455a50bd880",
+   "xfrm_size": 48662054
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/Kunal/MagicLeap/mlsdk/v0.21.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9e8eb757925775e501cca8e73a7f88de17796cdb",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\libc++_shared.so-81ad9893703f33fe",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "c9ad479e7b024432a2827a377800a99b9a683ac0",
+   "pkgpath": "manifest.xml",
+   "size": 3573,
+   "src": "C:\\Unity Projects\\Roll-a-ball_leap\\Roll-a-ball Leap\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "a3f0fdc3e7998b593f1cad5d6169217d6b818fd5",
+     "developer_id": "39d568be-076d-468e-be12-52cbe9d66305"
+    }
+   },
+   "xfrm_hash": "1a329fc78f85f9ee3661271ca186594c763692b6",
+   "xfrm_path": "C:/Unity Projects/Roll-a-ball_leap/Roll-a-ball Leap/.out/.cache/debug_lumin_clang-3.8_aarch64/com.leap.rollaball-717715da44894502\\manifest.xml-c4146455a50bd880",
+   "xfrm_size": 1223
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Independent Study\\Magic leap certificate\\leap_cert_kunal.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
