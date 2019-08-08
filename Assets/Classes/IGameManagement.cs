@@ -1,23 +1,31 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Net.Sockets;
 using UnityEngine;
 
 public interface IGameManagement
 {
     //Fields for scenes
-    SceneDetails[] scenesArray
+    SceneDetails[] ScenesArray
     {
         get;
         set;
     }
 
-    SceneDetails sceneToChangeTo
+    String SceneToChangeTo
     {
         get;
         set;
     }
 
-    bool isSceneChanging
+    bool IsSceneChanging
+    {
+        get;
+        set;
+    }
+
+    string CurrentSceneName
     {
         get;
         set;
@@ -25,82 +33,84 @@ public interface IGameManagement
 
 
     //Fields for objects
-    GameObject[] movableObjects
+    GameObject[] MovableObjects
     {
         get;
         set;
     }
 
-    GameObject currentObject
+    String CurrentObject
     {
         get;
         set;
     }
     
-    string currentRotationAxis
+    string CurrentRotationAxis
     {
         get;
         set;
     }
 
     //Fields for cues
-    GameObject[] pendingCues {
+    String PendingCues {
         get;
         set;
     }
 
-    GameObject[] completedCues
+    String CompletedCues
     {
         get;
         set;
     }
 
     //Fields for button presses
-    bool xNeg
+    bool Xneg
     {
         get;
         set;
     }
 
-    bool xPos
+    bool Xpos
     {
         get;
         set;
     }
 
-    bool zNeg
+    bool Zneg
     {
         get;
         set;
     }
 
-    bool zPos
+    bool Zpos
     {
         get;
         set;
     }
 
-    bool yNeg
+    bool Yneg
     {
         get;
         set;
     }
 
-    bool yPos
+    bool Ypos
     {
         get;
         set;
     }
 
-    bool clockRot
+    bool ClockRot
     {
         get;
         set;
     }
 
-    bool antiClockRot
+    bool AntiClockRot
     {
         get;
         set;
     }
+
+    void Listen();
 }

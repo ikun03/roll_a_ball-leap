@@ -9,7 +9,7 @@ public class SceneDetails
     private String sceneName;
     private String scenePath;
 
-    SceneDetails(String name,String path)
+    public SceneDetails(String name,String path)
     {
         this.sceneName = name;
         this.scenePath = path;
